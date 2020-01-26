@@ -1,7 +1,7 @@
 Simple weather app
 
-/*PUT YOUR OWN KEY HERE*/
-SUBSCRIBE HERE: https://home.openweathermap.org/users/sign_up*/
+Get your own key from subscribing throught the below url
+https://home.openweathermap.org/users/sign_up*/
 
 For running the project-
 1. Clone this repostory
